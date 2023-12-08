@@ -28,6 +28,10 @@ Confront hazards, solve puzzles, and uncover the mysteries of a unique world whe
 - **Skip Level:**
   - If unable to cross a level, press “L” to skip to the next level
  
+- **Pause:**
+  - Press “Esc” to pause the game
+  - Press “Esc” again to resume the game
+
 For more information about the gameplay and its storyline refer to the Game design document attached above.
 
 # Unity Code
