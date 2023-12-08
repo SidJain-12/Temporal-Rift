@@ -27,4 +27,6 @@ Confront hazards, solve puzzles, and uncover the mysteries of a unique world whe
 
 - **Skip Level:**
   - If unable to cross a level, press “L” to skip to the next level
+ 
+For more information about the gameplay and its storyline refer to the Game design document attached above.
 
