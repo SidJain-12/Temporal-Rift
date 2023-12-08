@@ -30,3 +30,8 @@ Confront hazards, solve puzzles, and uncover the mysteries of a unique world whe
  
 For more information about the gameplay and its storyline refer to the Game design document attached above.
 
+# Unity Code
+
+The unity code source is uploaded on onedrive due to its size being larger then 2GB. The link to the onedrive is given below:
+
+https://iiitaphyd-my.sharepoint.com/:u:/g/personal/naval_s_research_iiit_ac_in/EW6rZM-Qc6FOmKqf31gx3t8BkGbVh8cyhQAJOmuTqrYwbw?e=91aDqn
