@@ -1,5 +1,5 @@
 # Temporal-Rift
-A thrilling parkour game that challenges players with futuristic agility and time-warping mechanics. Master wall jumps, utilize grappling guns, and manipulate time to navigate through intricate levels.
+A thrilling parkour game that challenges players with futuristic agility and time-warping mechanics. Master wall jumps, utilize grappling guns, and manipulate time to navigate through diverse and challenging levels while dodging relentless enemies and obstacles.
 
 Confront hazards, solve puzzles, and uncover the mysteries of a unique world where precision and speed are paramount. Are you ready to embark on this heart-pounding journey through the Temporal Rift?
 
