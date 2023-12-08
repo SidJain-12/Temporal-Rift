@@ -3,6 +3,11 @@ A thrilling parkour game that challenges players with futuristic agility and tim
 
 Confront hazards, solve puzzles, and uncover the mysteries of a unique world where precision and speed are paramount. Are you ready to embark on this heart-pounding journey through the Temporal Rift?
 
+
+# File Structure
+
+Game exe is present in the GameExe folder, double click on `Temporal Rift.exe` to play the game. 
+
 # Basic Controls
 
 - **Movement:** W, A, S, D
